@@ -30,7 +30,7 @@
         ]
     },
     {
-        "disance": 1000,
+        "distance": 1000,
         "yearlyBestEfforts": [
             {
                 "year": 2026,
@@ -110,7 +110,7 @@
         ]
     },
     {
-        "disance": 5000,
+        "distance": 5000,
         "yearlyBestEfforts": [
             {
                 "year": 2026,
